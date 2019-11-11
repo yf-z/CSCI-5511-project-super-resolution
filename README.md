@@ -1,10 +1,6 @@
 # CSCI-5511-project-super-resolution
 
-Yifan Zhang
-
-Yiwen Xu
-
-Jun-Jee Chao
+Yifan Zhang, Yiwen Xu, Jun-Jee Chao
 
 ## Interpolation
 
